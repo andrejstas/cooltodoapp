@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a03084c2-315e-47cb-9948-827301f051f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/todos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/todoList/TodoWrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoList/TodoWrapper.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todoList/form/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoList/form/Form.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572705304743</updated>
       <workItem from="1572705306380" duration="2142000" />
-      <workItem from="1574517244013" duration="2893000" />
+      <workItem from="1574517244013" duration="2947000" />
     </task>
     <servers />
   </component>
