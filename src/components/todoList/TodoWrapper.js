@@ -3,6 +3,8 @@ import TodoItem from './TodoItem';
 import Card from '@material-ui/core/Card';
 import Container from '@material-ui/core/Container';
 
+import Form from './form/Form';
+
 const TodoWrapper = () => {
 
     const fakeData = [
@@ -23,6 +25,10 @@ const TodoWrapper = () => {
         },
     ];
 
+    console.log('what is here:', fakeData.map((item) => (
+        <TodoItem key={item.id} {...item} />
+    )));
+
     return (
         <Container>
             <Card>
@@ -32,6 +38,7 @@ const TodoWrapper = () => {
                     ))
                 }
             </Card>
+            <Form />
         </Container>
     );
 }
